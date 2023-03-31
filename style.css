@@ -22,7 +22,13 @@ body {
 }
 
 body {
-  background: url("	https://content.codecademy.com/courses/freelance-1/unit-6/banner.png"); 
+  background: url("https://content.codecademy.com/courses/freelance-1/unit-6/banner.png"); 
   text-align: center; 
 }
 
+footer {
+  height: 320px; 
+  background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_burgerphoto.jpeg");
+  background-position: center;
+  background-size: cover;
+} 
