@@ -1,1 +1,22 @@
+Header {
+  height: 80px; 
+  width: 240px; 
+  border: solid black; 
+}
 
+h1 {
+  Font-size: 12pt; 
+  Font-Family: Ariel; 
+  background-image: url('fish.png'), url('ocean.png'); 
+}
+
+p{
+  color: blue; 
+}
+  
+Footer {
+  background color: #8fbc8f;
+  color: #d3d3d3; 
+  
+} 
+  
