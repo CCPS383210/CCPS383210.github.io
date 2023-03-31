@@ -21,11 +21,8 @@ body {
   font-size: 16px; 
 }
 
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
+body {
+  background: url("	https://content.codecademy.com/courses/freelance-1/unit-6/banner.png"); 
+  text-align: center; 
 }
 
-<img src="paris.jpg" alt="Paris">
