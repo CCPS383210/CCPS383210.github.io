@@ -14,7 +14,8 @@ nav li {
 }
 
 body {
-  text-align: center; 
+  text-align: center;
+  background-color:  #808080; 
   color: #000000; 
   font-family: Georgia; 
   font-size: 16px; 
