@@ -7,12 +7,15 @@ header {
 nav li {
   width: 80px; 
   display: inline-block;  
-  color: #fff;
+  color: #696969;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 12px;
 }
 
 body {
+  text-align: center; 
+  color: #000000; 
   font-family: Georgia; 
+  font-size: 16px; 
 }
